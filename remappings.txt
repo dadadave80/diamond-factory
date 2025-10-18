@@ -1,0 +1,14 @@
+@diamond-errors/=lib/diamond-lib/src/libraries/errors/
+@diamond-logs/=lib/diamond-lib/src/libraries/logs/
+@diamond-script/=lib/diamond-lib/script/
+@diamond-storage/=lib/diamond-lib/src/libraries/storage/
+@diamond-test/=lib/diamond-lib/test/
+@diamond/=lib/diamond-lib/src/
+@openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
+@openzeppelin/contracts/=lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts/contracts/
+diamond-lib/=lib/diamond-lib/
+erc4626-tests/=lib/openzeppelin-contracts-upgradeable/lib/erc4626-tests/
+forge-std/=lib/forge-std/src/
+halmos-cheatcodes/=lib/openzeppelin-contracts-upgradeable/lib/halmos-cheatcodes/src/
+openzeppelin-contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/
+openzeppelin-contracts/=lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts/
